@@ -1,0 +1,15 @@
+{
+  "name": "04-validaciones",
+  "version": "1.0.0",
+  "description": "Aplicación para reforzar y aprender validaciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Delgado",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  }
+}
